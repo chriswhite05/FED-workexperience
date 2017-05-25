@@ -1,0 +1,51 @@
+.top-bar {
+  background: #0079C0;
+  font-size: 13px;
+  line-height: 23px;
+  padding: 0 20px; 
+}
+
+.top-bar__link {
+  color: #fff;
+  padding: 5px 15px;
+}
+
+.header {
+  background: #fff;
+  color: 
+}
+
+.header-nav__link {
+  color: #333;
+}
+
+.button--blue {
+  background: #0079C0;
+  color: #fff; }
+
+.button--blue:hover {
+  background: #F12E58;
+  color: #fff; }
+
+.hero {
+  background-image: url("../images/hero.png");
+  min-height: 544px;
+}
+
+.button--cta {
+  background: #F12E58;
+  color: #fff; }
+
+.button--cta:hover {
+  background: #dd0f3b;
+  color: #fff; }
+
+
+.featured-job__content-box {
+  background: #17C1B4;
+}
+
+.ctablock .box {
+  background:#000;
+  color: #fff;
+}
